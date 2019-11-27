@@ -6,7 +6,8 @@ module = "inputenx"
 textfiles = {"README.md"}
 unpackfiles = {'inputenx.dtx'}
 sourcefiles={"*.dtx"}
-installfiles={"*.sty","*.def"}
+installfiles={"*.sty","*.def","*.dfu"}
+
 
  
 packtdszip  = true
